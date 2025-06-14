@@ -22,4 +22,4 @@ A fun and simple web app that shows random inspirational quotes using HTML, CSS,
 - 📸 Instagram: [@_prem_thoke](https://instagram.com/_prem_thoke)
 
 
-🌈 *Wait & Hope. Keep Learning. Keep Building.*
+ *Wait & Hope. Keep Learning. Keep Building.*
