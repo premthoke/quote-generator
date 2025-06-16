@@ -4,8 +4,20 @@
   <meta charset="UTF-8">
   <title>Random Quote Generator</title>
   <link rel="stylesheet" href="style.css">
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HECF2MJVRR"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-HECF2MJVRR');
+  </script>
 </head>
 <body>
+  
+  <button id="theme-toggle" class="theme-toggle">🌙</button>
+
   <div class="container">
     <h1>Random Quote Generator</h1>
     <p id="quote">Loading...</p>
@@ -16,10 +28,17 @@
       <button id="speak">🗣️ Speak</button>
       <button id="copy">📋 Copy</button>
       <button id="tweet">🐦 Tweet</button>
+      <button id="whatsapp">💬 WhatsApp</button>
     </div>
 
+    <p id="counter" style="margin-top: 15px; color: #777; font-size: 14px;"></p>
+
     <footer style="margin-top: 40px; font-size: 0.9em; color: #555;">
-      <p>💡 Follow me on <a href="https://instagram.com/_prem_thoke" target="_blank" style="color:#007BFF;">@_prem_thoke</a></p>
+      <p>💡 Follow me on 
+        <a href="https://instagram.com/_prem_thoke" target="_blank" style="color:#007BFF;">
+          @_prem_thoke
+        </a>
+      </p>
       <p>🔧 Site developed by <strong>Chibi & Premmx7</strong></p>
     </footer>
   </div>
