@@ -5,8 +5,9 @@ A fun and simple web app that shows random inspirational quotes using HTML, CSS,
 - Get a new quote at the click of a button
 - Speak the quote aloud 🔊
 - Copy to clipboard 📋
-- Tweet your favorite quotes 🐦
+- Tweet/WhatsApp your favorite quotes 🐦
 - Stylish and responsive UI
+- Dark mode
 
 ## 🔗 Live Site
 👉 [Click to view](https://premthoke.github.io/quote-generator/)
