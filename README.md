@@ -34,8 +34,8 @@ A fun and simple web app that shows random inspirational quotes using HTML, CSS,
 ---
 
 ## 👨‍💻 Developer Info
-- 🧑‍💻 Developed by **Premmx7** & 🧠 **Chibi**
+- 🧑‍💻 Developed by **Premmx7** & 🧠 **Chibi** 
 - 📸 Instagram: [@_prem_thoke](https://instagram.com/_prem_thoke)
 
 
- *Wait & Hope. Keep Learning. Keep Building.*
+ *Wait & Hope. Keep Learning. Keep Building. Hehe*
